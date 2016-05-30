@@ -1,0 +1,132 @@
+
+
+body{background: url('http://i2.cdn.turner.com/cnnnext/dam/assets/151221160132-the-eighties-background-super-169.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     /*float: left;*/
+     /*width: 80%;*/
+	
+     color:whitesmoke;
+     font-family: 'Arial Rounded MT Bold';
+     color: #49fb35;
+}
+#boombox{
+	color:#000000;
+	font-size: 20px;
+}
+
+h3{
+	font-size: 75px;
+}
+
+.radio{
+	font-size: 20px;
+	float: left;
+	text-align: center;
+}
+.panel-body{
+	padding-top: 5px;
+
+}
+
+#q1{
+	/*background: url('http://thumbs.dreamstime.com/z/seamless-background-s-abstract-geometric-pattern-retro-memphis-style-fashion-can-be-used-printing-website-backdrop-58155578.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	font-size: 20px;
+	font-variant-position: center;
+	float: left;
+	}	
+
+#q2{
+	/*background: url('http://thumbs.dreamstime.com/z/seamless-retro-geometric-pattern-22149843.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	font-size: 20px;
+	font-variant-position:center; 
+	float: left;
+}
+
+#q3{
+	/*background: url('http://thumb101.shutterstock.com/display_pic_with_logo/759610/351503747/stock-vector-retro-s-or-s-fashion-style-abstract-seamless-pattern-background-memphis-inspired-good-for-351503747.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	font-size: 20px;
+	float:left;
+}
+#q4{
+	/*background: url('http://www.easyfreepatterns.com/patterns/132/hip-hop-backgrounds-shop-patterns-for-free-download-about-pictures-132843.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	color:#ff1493;
+	font-size: 20px;
+	float: left;
+}
+#q5{
+	/*background: url('http://thumb101.shutterstock.com/display_pic_with_logo/2505571/256656973/stock-vector-brazilian-favela-bright-colored-seamless-pattern-vector-background-256656973.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	color:#ff1493;
+	font-size: 20px;
+	float:left;
+}
+#q6{
+	/*background: url('http://thumb101.shutterstock.com/display_pic_with_logo/926321/257202067/stock-vector-seamless-geometric-pattern-in-retro-s-style-257202067.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	color:#ff1493;
+	font-size: 20px;
+	float:right;
+}
+#q7{
+	/*background: url('http://thumbs.dreamstime.com/z/retro-s-seamless-pattern-background-vintage-memphis-fashion-style-illustration-ideal-fabric-design-paper-print-website-57384490.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	color:#ff1493;
+	font-size: 20px;
+	float:left;
+}
+#q8{
+	/*background: url('http://thumbs.dreamstime.com/z/seamless-urban-pattern-8111304.jpg');*/
+	width: 100%;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	color:#ff1493;
+	font-size: 20px;
+	float: right;
+}
+
+#done{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	height: 50px;
+	width:10%;
+	background-color:#ffff00;
+	font-family: 'Arial Rounded MT Bold';
+	font-size: 20px;
+	/*float: left;*/
+}
+#reset{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	height: 50px;
+	width: 10%;
+	background-color:#ffff00;
+	font-family: 'Arial Rounded MT Bold';
+	font-size: 20px;
+	/*float: left;*/
+}
+
+
+
+
+
